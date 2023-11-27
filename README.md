@@ -2,11 +2,13 @@
 
 <h3 align="center">I'm a seasoned software professional with a passion for innovation and a track record of over three years in software engineering.</h3>
 
+- 📄 You can find my portfolio [here](https://chintahari.github.io/MyPortfolio/).
+
 - 🔭 I’m currently learning **AWS**
   
 - 👑 Exploring leadership roles, leveraging diverse technical skills to drive teams and initiatives towards impactful outcomes.
   
-- 📄 Wanna know about my experience? [https://drive.google.com/file/d/1UUn_2dgTKGp7H0BmU86N-OEfNr55y6Sg/view?usp=drive_link](https://drive.google.com/file/d/1UUn_2dgTKGp7H0BmU86N-OEfNr55y6Sg/view?usp=drive_link)
+- 📄 Wanna know about my experience? [click here](https://drive.google.com/file/d/1UUn_2dgTKGp7H0BmU86N-OEfNr55y6Sg/view?usp=drive_link)
 
 - 💬 Ask me about **Java, C, ReactJS, SpringBoot, AWS**
 
