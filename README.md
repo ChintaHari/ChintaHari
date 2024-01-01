@@ -8,7 +8,7 @@
   
 - 👑 Exploring leadership roles, leveraging diverse technical skills to drive teams and initiatives towards impactful outcomes.
   
-- 📄 Wanna know about my experience? [click here](https://drive.google.com/file/d/1UUn_2dgTKGp7H0BmU86N-OEfNr55y6Sg/view?usp=drive_link)
+- 📄 Wanna know about my experience? [click here](https://drive.google.com/file/d/1tF7CcfwTQV1RzURVHiwmD7IhXXAG2GX6/view)
 
 - 💬 Ask me about **Java, C, ReactJS, SpringBoot, AWS**
 
