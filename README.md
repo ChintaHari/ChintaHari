@@ -10,7 +10,7 @@
   
 - 📄 Wanna know about my experience? [click here](https://drive.google.com/file/d/1tF7CcfwTQV1RzURVHiwmD7IhXXAG2GX6/view)
 
-- 💬 Ask me about **Java, C, ReactJS, SpringBoot, AWS**
+- 💬 Ask me about **Java, C, ReactJS, SpringBoot, DjangoREST framework, AWS**
 
 - 📫 How to reach me **hkharikrishna62@gmail.com**
 
